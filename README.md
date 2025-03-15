@@ -89,6 +89,6 @@ LIMIT 1;
 
 
 ## 🔗 Contributors
-👤 *Malav Menpara*  
+👤 *Mohammad Asif*  
 📧 *mohammadasifmehboob@gmail.com*  
 💼 *[GitHub](https://github.com/mohammadasifa)*
