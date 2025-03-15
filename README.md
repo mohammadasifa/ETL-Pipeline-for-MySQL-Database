@@ -90,5 +90,5 @@ LIMIT 1;
 
 ## 🔗 Contributors
 👤 *Malav Menpara*  
-📧 *malavmenpara2001@gmail.com*  
-💼 *[GitHub](https://github.com/Malav1301)*
+📧 *mohammadasifmehboob@gmail.com*  
+💼 *[GitHub](https://github.com/mohammadasifa)*
